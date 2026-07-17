@@ -1,0 +1,1 @@
+{"version":3,"file":"ITranscriptService.d.ts","sourceRoot":"","sources":["../../src/interfaces/ITranscriptService.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,mBAAmB,CAAC;AAE5C,MAAM,WAAW,kBAAkB;IACjC;;;;OAIG;IACH,kBAAkB,CAAC,OAAO,EAAE,OAAO,GAAG,MAAM,CAAC;IAE7C;;;;OAIG;IACH,gBAAgB,CAAC,OAAO,EAAE,OAAO,GAAG,MAAM,CAAC;CAC5C"}
