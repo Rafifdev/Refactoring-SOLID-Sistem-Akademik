@@ -21,9 +21,8 @@ Pastikan komputer Anda sudah terinstall:
 Jika menggunakan Git:
 ```bash
 git clone <url-repositori-ini>
-cd PBO
+cd Refactoring-SOLID-Sistem-Akademik
 ```
-Atau cukup ekstrak file ZIP project ini dan buka terminal/command prompt di direktori tersebut.
 
 ### 2. Install Dependensi
 Jalankan perintah berikut untuk menginstall dependensi TypeScript:
